@@ -59,3 +59,7 @@ float Student::getGPA()
 	return GPA;
 }
 
+string Student::getSemester()
+{
+	return semester;
+}

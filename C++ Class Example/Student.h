@@ -21,6 +21,7 @@ public:
 	int getID();
 	int getGrade();
 	float getGPA();
+	string getSemester();
 
 private:
 	string name;
